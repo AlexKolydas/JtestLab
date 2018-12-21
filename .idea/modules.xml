@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/JtestLab.iml" filepath="$PROJECT_DIR$/JtestLab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hamcrestlibrary/hamcrestlibrary.iml" filepath="$PROJECT_DIR$/hamcrestlibrary/hamcrestlibrary.iml" />
     </modules>
   </component>
 </project>
